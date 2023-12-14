@@ -1,6 +1,6 @@
 # DevOps
 
-```
+```mermaid
 mindmap
     root)DevOps(
         Meaning
